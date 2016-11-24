@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/chatter/config/pusher.php</file>
+            <file>file:/var/www/html/chatter/config/app.php</file>
+            <file>file:/var/www/html/chatter/.env</file>
+            <file>file:/var/www/html/chatter/config/services.php</file>
+            <file>file:/var/www/html/chatter/resources/views/activities.blade.php</file>
+            <file>file:/var/www/html/chatter/storage/logs/laravel.log</file>
+            <file>file:/var/www/html/chatter/routes/web.php</file>
+            <file>file:/var/www/html/chatter/app/Http/Controllers/NotificationController.php</file>
+            <file>file:/var/www/html/chatter/resources/views/chat.blade.php</file>
+            <file>file:/var/www/html/chatter/app/Http/Controllers/Auth/AuthController.php</file>
+            <file>file:/var/www/html/chatter/app/Http/Controllers/ChatController.php</file>
+            <file>file:/var/www/html/chatter/resources/views/welcome.blade.php</file>
+            <file>file:/var/www/html/chatter/app/Providers/AppServiceProvider.php</file>
+            <file>file:/var/www/html/chatter/resources/views/notification.blade.php</file>
+            <file>file:/var/www/html/chatter/app/Http/Controllers/ActivityController.php</file>
+        </group>
+    </open-files>
+</project-private>
